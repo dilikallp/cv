@@ -1,0 +1,13 @@
+<!DOCTYPE html> version of HTML = html 5
+<html lang="en"> language its written in nglish
+<head>
+    <meta charset="UTF-8"> ensures the charecters you use on your website get displayed
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>title is usually what gets displayed up here in the Tab bar.
+</head>
+<body> most of what we do goes into the body
+    
+</body>
+</html>    all this is called a boiler plate
+<em> tag = emphaise <i> italics
